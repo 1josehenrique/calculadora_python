@@ -6,6 +6,7 @@ Calculadora Interativa 🧮
 Realiza operações básicas de adição, subtração, multiplicação, divisão e exponenciação.
 Interface amigável para selecionar o tipo de operação e inserir os números.
 Exibe o resultado e permite que você faça cálculos adicionais.
+
 💻 Código do Colab:
 O código acima é uma implementação interativa que permite que você selecione o tipo de operação e insira os números para calcular o resultado desejado. Ele usa a função input() para receber as entradas do usuário e imprime os resultados com formatação adequada.
 
