@@ -1,8 +1,8 @@
-**Calculadora Interativa 🧮
+Calculadora Interativa 🧮
 
 🔢 Um simples código de calculadora interativa criado usando Python no Google Colab!
 
-**✨ Recursos:
+✨ Recursos:
 
 Realiza operações básicas de adição, subtração, multiplicação, divisão e exponenciação.
 Interface amigável para selecionar o tipo de operação e inserir os números.
